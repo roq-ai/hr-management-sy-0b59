@@ -1,0 +1,2472 @@
+[
+  {
+    "vacation": [
+      {
+        "id": "bdbd08ac-e28c-4721-adc7-6f71351ff5ac",
+        "start_date": "2023-09-06T00:24:35.129Z",
+        "end_date": "2023-09-05T22:53:30.152Z",
+        "status": "approved",
+        "created_at": "2023-09-06T08:19:40.980Z",
+        "updated_at": "2023-09-06T06:00:52.667Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f812513-4f55-4d9b-b7a5-6150765063fd",
+        "start_date": "2023-09-06T09:09:28.364Z",
+        "end_date": "2023-09-06T07:56:23.077Z",
+        "status": "pending",
+        "created_at": "2023-09-06T12:42:27.122Z",
+        "updated_at": "2023-09-06T07:24:56.534Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7d92b59b-6a4f-4c3e-bde8-1c93fcc4d726",
+        "start_date": "2023-09-06T03:17:53.511Z",
+        "end_date": "2023-09-06T03:16:46.400Z",
+        "status": "rejected",
+        "created_at": "2023-09-05T23:58:28.133Z",
+        "updated_at": "2023-09-06T01:40:32.884Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a5456cfe-e08f-447f-aba7-e281f6dd56c7",
+        "start_date": "2023-09-05T20:06:00.202Z",
+        "end_date": "2023-09-05T22:01:20.957Z",
+        "status": "cancelled",
+        "created_at": "2023-09-06T07:03:57.892Z",
+        "updated_at": "2023-09-06T07:58:36.488Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "63318200-66e7-4ef0-a315-5d3180bc3b06",
+        "start_date": "2023-09-06T03:44:48.863Z",
+        "end_date": "2023-09-06T02:09:30.384Z",
+        "status": "scheduled",
+        "created_at": "2023-09-05T17:19:11.458Z",
+        "updated_at": "2023-09-05T19:35:46.251Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "86e32997-e60b-4fd3-bc88-187ac877a856",
+        "start_time": "2023-09-06T02:22:15.223Z",
+        "end_time": "2023-09-06T02:53:54.164Z",
+        "total_hours": 64312,
+        "created_at": "2023-09-06T01:42:49.063Z",
+        "updated_at": "2023-09-06T06:09:59.357Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c7c061b4-4068-4233-ad84-595367e757ec",
+        "start_time": "2023-09-06T01:33:11.492Z",
+        "end_time": "2023-09-05T21:09:24.009Z",
+        "total_hours": 67475,
+        "created_at": "2023-09-06T03:42:46.742Z",
+        "updated_at": "2023-09-06T05:27:22.781Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cfb3a024-382b-4cbe-9ad0-345e021c8173",
+        "start_time": "2023-09-06T12:44:33.222Z",
+        "end_time": "2023-09-06T06:25:30.282Z",
+        "total_hours": 70487,
+        "created_at": "2023-09-06T11:49:08.280Z",
+        "updated_at": "2023-09-05T22:14:18.858Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80b289f2-bc29-4ec6-93aa-308b236f6b65",
+        "start_time": "2023-09-06T15:28:23.694Z",
+        "end_time": "2023-09-06T01:26:28.804Z",
+        "total_hours": 36558,
+        "created_at": "2023-09-06T02:16:10.115Z",
+        "updated_at": "2023-09-05T18:44:12.498Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7a931eb-1a4b-4f33-b2d1-c9ebc25aeb86",
+        "start_time": "2023-09-06T04:36:18.126Z",
+        "end_time": "2023-09-06T01:34:34.062Z",
+        "total_hours": 35791,
+        "created_at": "2023-09-06T05:31:09.482Z",
+        "updated_at": "2023-09-06T08:07:30.140Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "88c922b9-4537-495c-a46f-63f9337b61a0",
+        "evaluation_date": "2023-09-06T16:00:33.162Z",
+        "score": 51742,
+        "comments": "Excellent performance",
+        "created_at": "2023-09-05T17:37:06.717Z",
+        "updated_at": "2023-09-05T23:59:00.207Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "360eab55-0d5a-4a0c-b7b7-4602f80d0e6b",
+        "evaluation_date": "2023-09-06T02:12:02.547Z",
+        "score": 91554,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T11:38:44.565Z",
+        "updated_at": "2023-09-06T05:05:02.248Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2d36cb1-04e2-4ed0-8ede-2fd8b77c1778",
+        "evaluation_date": "2023-09-06T02:01:07.402Z",
+        "score": 89823,
+        "comments": "Outstanding work",
+        "created_at": "2023-09-05T21:50:52.892Z",
+        "updated_at": "2023-09-05T18:28:48.934Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eed90f72-f3c6-42c8-af27-2e0701ed646c",
+        "evaluation_date": "2023-09-06T11:47:34.330Z",
+        "score": 48941,
+        "comments": "Consistently exceeds expectations",
+        "created_at": "2023-09-06T10:49:19.234Z",
+        "updated_at": "2023-09-05T20:38:02.511Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a45e05b0-850d-4341-a40a-cfdb499db67f",
+        "evaluation_date": "2023-09-06T01:35:47.906Z",
+        "score": 50242,
+        "comments": "Shows great potential",
+        "created_at": "2023-09-06T06:39:10.214Z",
+        "updated_at": "2023-09-06T02:49:07.612Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "b4b0fcdf-4689-4325-9275-ffea79b21073",
+        "salary": 50510,
+        "bonus": 84659,
+        "deductions": 22710,
+        "payment_date": "2023-09-06T03:42:46.414Z",
+        "created_at": "2023-09-06T11:44:18.807Z",
+        "updated_at": "2023-09-06T04:39:29.455Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5daf2ada-ae1a-46b5-b457-8cbb721ca13f",
+        "salary": 67203,
+        "bonus": 23733,
+        "deductions": 67350,
+        "payment_date": "2023-09-05T21:40:37.378Z",
+        "created_at": "2023-09-05T20:31:16.206Z",
+        "updated_at": "2023-09-06T03:51:24.624Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50b19bd7-7cf8-4287-87cf-246ccbad3681",
+        "salary": 54015,
+        "bonus": 1484,
+        "deductions": 21776,
+        "payment_date": "2023-09-05T19:51:31.388Z",
+        "created_at": "2023-09-05T18:49:58.232Z",
+        "updated_at": "2023-09-05T23:25:06.188Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70207a78-239f-4baf-a18c-ccc1b1bf8d59",
+        "salary": 2969,
+        "bonus": 15822,
+        "deductions": 6172,
+        "payment_date": "2023-09-06T16:00:06.484Z",
+        "created_at": "2023-09-06T04:27:03.759Z",
+        "updated_at": "2023-09-06T04:11:24.667Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e08dfb3a-2ec6-4ef4-b7f7-b220eaf9d848",
+        "salary": 5456,
+        "bonus": 63144,
+        "deductions": 81321,
+        "payment_date": "2023-09-05T21:01:05.839Z",
+        "created_at": "2023-09-05T18:05:21.498Z",
+        "updated_at": "2023-09-05T21:52:15.007Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0142aee0-ef83-4404-b86a-a73409cdd908",
+        "email": "Adolph.Leffler59@yahoo.com",
+        "firstName": "Cesar",
+        "lastName": "Cummerata",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58996474",
+        "tenantId": null
+      },
+      {
+        "reference": "2f1c2db0-b3de-468c-915d-20fcb2a562a3",
+        "email": "Kyler17@gmail.com",
+        "firstName": "Antonina",
+        "lastName": "Cummerata",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54940049",
+        "tenantId": null
+      },
+      {
+        "reference": "22134135-b5d6-4674-b6fd-2040d1520e78",
+        "email": "Verna_Blick25@gmail.com",
+        "firstName": "Joan",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/646.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7cdc161e-88eb-4e60-8a35-3211e862d40e",
+        "email": "Richmond.Kuphal-Wuckert25@yahoo.com",
+        "firstName": "Kailey",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49385097",
+        "tenantId": null
+      },
+      {
+        "reference": "8ad28921-1960-4433-b87a-349fdffec320",
+        "email": "Ciara61@hotmail.com",
+        "firstName": "Tristin",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92825747",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "0ae2e2fe-ccd3-4f30-8971-d19b5024540d",
+        "start_date": "2023-09-05T22:26:16.645Z",
+        "end_date": "2023-09-06T03:57:38.739Z",
+        "status": "Approved",
+        "created_at": "2023-09-05T16:40:58.353Z",
+        "updated_at": "2023-09-06T13:56:35.568Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ff2bd21-b702-46d3-8f36-db492a0f4044",
+        "start_date": "2023-09-05T21:58:55.830Z",
+        "end_date": "2023-09-06T00:40:02.627Z",
+        "status": "Pending",
+        "created_at": "2023-09-06T07:20:49.490Z",
+        "updated_at": "2023-09-06T11:14:13.284Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa9f7954-4ee6-4a13-86a7-f93190caa619",
+        "start_date": "2023-09-06T16:19:36.797Z",
+        "end_date": "2023-09-06T01:18:31.533Z",
+        "status": "Rejected",
+        "created_at": "2023-09-06T13:00:51.420Z",
+        "updated_at": "2023-09-06T14:35:03.408Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e83fecb-95c1-4e4a-905f-200afe851125",
+        "start_date": "2023-09-06T12:49:58.483Z",
+        "end_date": "2023-09-06T07:59:22.124Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-06T01:24:24.768Z",
+        "updated_at": "2023-09-05T16:33:05.021Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9320a27b-99fe-46d0-9500-e59e15fccaaf",
+        "start_date": "2023-09-06T16:24:45.193Z",
+        "end_date": "2023-09-06T11:32:47.126Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-06T07:58:46.111Z",
+        "updated_at": "2023-09-05T21:47:21.045Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "9c4116b9-438f-4187-88e6-4d9270cc6d8b",
+        "start_time": "2023-09-06T10:13:41.823Z",
+        "end_time": "2023-09-05T22:48:36.504Z",
+        "total_hours": 52025,
+        "created_at": "2023-09-06T16:09:04.866Z",
+        "updated_at": "2023-09-05T22:49:24.670Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4fbf21bd-b239-48a1-90b0-3d7f4261842f",
+        "start_time": "2023-09-06T06:55:45.095Z",
+        "end_time": "2023-09-05T21:53:18.104Z",
+        "total_hours": 28548,
+        "created_at": "2023-09-06T08:21:33.151Z",
+        "updated_at": "2023-09-06T15:10:30.600Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b2bb586-c384-490e-be92-7150db27b745",
+        "start_time": "2023-09-05T18:40:21.952Z",
+        "end_time": "2023-09-06T08:07:54.510Z",
+        "total_hours": 12939,
+        "created_at": "2023-09-06T15:55:59.501Z",
+        "updated_at": "2023-09-06T11:42:12.485Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1605640-4b59-46e7-9a46-126a72aa3004",
+        "start_time": "2023-09-05T23:33:35.355Z",
+        "end_time": "2023-09-05T23:15:43.547Z",
+        "total_hours": 71879,
+        "created_at": "2023-09-06T03:32:52.770Z",
+        "updated_at": "2023-09-06T03:11:47.864Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16bebed8-db0f-4e07-867d-728df74ec64c",
+        "start_time": "2023-09-05T17:53:14.755Z",
+        "end_time": "2023-09-06T10:48:37.632Z",
+        "total_hours": 57288,
+        "created_at": "2023-09-05T18:58:35.361Z",
+        "updated_at": "2023-09-06T16:17:01.597Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "a131197a-5423-4db8-8494-749195042809",
+        "evaluation_date": "2023-09-06T14:32:12.632Z",
+        "score": 60238,
+        "comments": "Excellent work!",
+        "created_at": "2023-09-06T12:26:46.990Z",
+        "updated_at": "2023-09-06T03:06:40.773Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c3bface-8a6a-4844-acfc-e508790cc182",
+        "evaluation_date": "2023-09-05T21:44:42.732Z",
+        "score": 53635,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T05:21:41.910Z",
+        "updated_at": "2023-09-06T05:15:48.918Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b434113-591a-4fe7-b13e-ac8d53e40459",
+        "evaluation_date": "2023-09-05T23:30:35.677Z",
+        "score": 37607,
+        "comments": "Great team player",
+        "created_at": "2023-09-06T02:10:30.024Z",
+        "updated_at": "2023-09-06T04:22:27.190Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7fd2890e-8889-4d5a-b82c-b7a5381ebe6d",
+        "evaluation_date": "2023-09-05T18:32:36.829Z",
+        "score": 42660,
+        "comments": "Consistently meets deadlines",
+        "created_at": "2023-09-05T19:31:39.965Z",
+        "updated_at": "2023-09-06T08:38:02.908Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "124de841-4340-471e-8c6b-efbd776bdd14",
+        "evaluation_date": "2023-09-06T12:08:09.491Z",
+        "score": 58044,
+        "comments": "Attention to detail",
+        "created_at": "2023-09-06T11:16:34.728Z",
+        "updated_at": "2023-09-05T20:57:13.072Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "40a8ba1b-bc58-458a-ba2c-a2be505361aa",
+        "salary": 1589,
+        "bonus": 45090,
+        "deductions": 51341,
+        "payment_date": "2023-09-06T06:58:53.103Z",
+        "created_at": "2023-09-06T02:09:23.842Z",
+        "updated_at": "2023-09-06T16:16:15.578Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3900932-e7e3-4546-ac52-97d447eccd9d",
+        "salary": 27059,
+        "bonus": 35496,
+        "deductions": 70552,
+        "payment_date": "2023-09-06T05:00:09.425Z",
+        "created_at": "2023-09-05T19:21:33.045Z",
+        "updated_at": "2023-09-06T02:56:20.490Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "822df209-c295-430d-a901-1d21f804f887",
+        "salary": 83289,
+        "bonus": 92973,
+        "deductions": 76475,
+        "payment_date": "2023-09-06T03:45:22.177Z",
+        "created_at": "2023-09-05T17:25:00.596Z",
+        "updated_at": "2023-09-06T13:46:18.481Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e24dba37-a222-44ab-ad90-f0ddeca3bcc7",
+        "salary": 21876,
+        "bonus": 45566,
+        "deductions": 81977,
+        "payment_date": "2023-09-06T05:34:34.411Z",
+        "created_at": "2023-09-06T08:36:09.245Z",
+        "updated_at": "2023-09-05T16:36:32.943Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fff6c386-672f-43c1-9242-950076ebc15a",
+        "salary": 16598,
+        "bonus": 24508,
+        "deductions": 3842,
+        "payment_date": "2023-09-05T23:19:17.610Z",
+        "created_at": "2023-09-06T04:08:49.101Z",
+        "updated_at": "2023-09-06T12:17:04.961Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "345c1efe-0b0b-4924-918a-e85768b5fe31",
+        "email": "Lucy_Bartoletti@hotmail.com",
+        "firstName": "Kenyatta",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3495622",
+        "tenantId": null
+      },
+      {
+        "reference": "0fafd52e-26d5-4309-a1f8-eb95579fadf4",
+        "email": "Deshaun.Abernathy87@gmail.com",
+        "firstName": "Bettye",
+        "lastName": "Crooks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51683609",
+        "tenantId": null
+      },
+      {
+        "reference": "27f346a9-e448-47a1-a23d-f6dd687a11ce",
+        "email": "Brain.Lesch@yahoo.com",
+        "firstName": "Ron",
+        "lastName": "McGlynn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76297110",
+        "tenantId": null
+      },
+      {
+        "reference": "b094aacd-ea15-4fbe-bb16-454ce9639828",
+        "email": "Meaghan92@yahoo.com",
+        "firstName": "Hiram",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3230624",
+        "tenantId": null
+      },
+      {
+        "reference": "5883526f-7fde-4e4b-8066-888a92251294",
+        "email": "Kamille_Kassulke@hotmail.com",
+        "firstName": "Kian",
+        "lastName": "Cruickshank",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/661.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "1655fd30-546b-4143-935e-f48d6ab410b7",
+        "start_date": "2023-09-06T11:48:16.627Z",
+        "end_date": "2023-09-05T18:15:57.403Z",
+        "status": "Approved",
+        "created_at": "2023-09-06T01:21:09.392Z",
+        "updated_at": "2023-09-06T04:37:44.426Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75903419-2fea-4c74-b6ed-ee054486c087",
+        "start_date": "2023-09-06T04:16:16.348Z",
+        "end_date": "2023-09-06T14:02:32.932Z",
+        "status": "Pending",
+        "created_at": "2023-09-06T03:08:01.483Z",
+        "updated_at": "2023-09-06T08:58:52.244Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b50ee38e-66bd-4a06-9a10-b3bbcb3842f4",
+        "start_date": "2023-09-05T23:48:38.796Z",
+        "end_date": "2023-09-06T15:01:22.563Z",
+        "status": "Rejected",
+        "created_at": "2023-09-06T05:12:16.195Z",
+        "updated_at": "2023-09-05T20:15:34.148Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0e8f908-41b8-4d92-99b0-5ddbc6b0c670",
+        "start_date": "2023-09-05T20:49:06.036Z",
+        "end_date": "2023-09-06T14:11:08.162Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-06T06:49:41.333Z",
+        "updated_at": "2023-09-05T21:24:23.793Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81319596-9677-42a1-a0f0-e5da77b3c4a9",
+        "start_date": "2023-09-06T14:29:47.439Z",
+        "end_date": "2023-09-05T22:01:40.517Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-06T02:01:50.816Z",
+        "updated_at": "2023-09-06T12:11:45.948Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "9fcfea47-75f1-4ee1-9982-317664aaed62",
+        "start_time": "2023-09-06T08:24:25.821Z",
+        "end_time": "2023-09-06T00:47:37.019Z",
+        "total_hours": 83812,
+        "created_at": "2023-09-05T20:17:15.947Z",
+        "updated_at": "2023-09-06T02:40:36.403Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50ed4ecc-6650-49bf-ad07-8a9741d9f6fc",
+        "start_time": "2023-09-05T19:44:46.937Z",
+        "end_time": "2023-09-06T11:13:07.170Z",
+        "total_hours": 86246,
+        "created_at": "2023-09-06T13:51:05.999Z",
+        "updated_at": "2023-09-05T23:11:51.356Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "870347e2-e973-448c-93fb-3461741b1908",
+        "start_time": "2023-09-06T10:01:26.769Z",
+        "end_time": "2023-09-06T04:25:13.051Z",
+        "total_hours": 10204,
+        "created_at": "2023-09-05T21:03:28.480Z",
+        "updated_at": "2023-09-06T15:47:24.538Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f9ed4b7-27ff-4c90-a0a1-96bd5a722414",
+        "start_time": "2023-09-06T09:56:33.658Z",
+        "end_time": "2023-09-06T02:24:15.622Z",
+        "total_hours": 4660,
+        "created_at": "2023-09-06T14:25:31.909Z",
+        "updated_at": "2023-09-06T02:19:38.161Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8c38649-6b6d-482d-ba46-053f539af159",
+        "start_time": "2023-09-06T09:06:26.641Z",
+        "end_time": "2023-09-06T05:54:21.499Z",
+        "total_hours": 77088,
+        "created_at": "2023-09-05T21:46:26.368Z",
+        "updated_at": "2023-09-06T09:18:03.152Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "985a319f-e1a2-487f-93c4-f561e14fd4e1",
+        "evaluation_date": "2023-09-06T06:14:37.614Z",
+        "score": 69702,
+        "comments": "Great work!",
+        "created_at": "2023-09-06T06:37:21.574Z",
+        "updated_at": "2023-09-05T18:06:03.594Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "41891f99-27f2-4e4c-9a01-f64a05d268ec",
+        "evaluation_date": "2023-09-05T21:05:29.799Z",
+        "score": 9147,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T02:24:41.853Z",
+        "updated_at": "2023-09-06T06:55:30.360Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3b3fa17-fa2e-4189-9d5d-34ac844c5f35",
+        "evaluation_date": "2023-09-05T18:20:53.859Z",
+        "score": 97760,
+        "comments": "Outstanding performance",
+        "created_at": "2023-09-06T14:00:57.402Z",
+        "updated_at": "2023-09-06T04:10:35.535Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "acc0534b-7e74-41c3-8c74-f9c4ef61ddea",
+        "evaluation_date": "2023-09-06T12:25:16.161Z",
+        "score": 38910,
+        "comments": "Average performance",
+        "created_at": "2023-09-06T07:44:23.480Z",
+        "updated_at": "2023-09-06T10:21:03.841Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1214f861-0f5f-447c-8ffb-f221062ab20a",
+        "evaluation_date": "2023-09-05T19:18:21.302Z",
+        "score": 92363,
+        "comments": "Exceptional job",
+        "created_at": "2023-09-06T03:01:03.317Z",
+        "updated_at": "2023-09-06T09:48:10.977Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "0c743fd8-89c3-49f7-9c19-c11282d07df1",
+        "salary": 53112,
+        "bonus": 42973,
+        "deductions": 49085,
+        "payment_date": "2023-09-06T07:46:57.253Z",
+        "created_at": "2023-09-06T13:38:04.617Z",
+        "updated_at": "2023-09-06T13:20:07.720Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb9dd096-900f-45a8-84d6-87d4427438c5",
+        "salary": 99013,
+        "bonus": 70445,
+        "deductions": 32991,
+        "payment_date": "2023-09-06T10:56:48.068Z",
+        "created_at": "2023-09-06T14:07:34.782Z",
+        "updated_at": "2023-09-06T09:59:58.194Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95acadf8-6902-4490-95ff-23f47b7d6b32",
+        "salary": 8743,
+        "bonus": 76228,
+        "deductions": 25336,
+        "payment_date": "2023-09-06T07:13:29.082Z",
+        "created_at": "2023-09-05T16:32:38.264Z",
+        "updated_at": "2023-09-06T10:31:42.441Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef30adc0-70fe-4911-ab3d-e5c98aa66c69",
+        "salary": 29331,
+        "bonus": 12439,
+        "deductions": 29008,
+        "payment_date": "2023-09-06T12:07:13.564Z",
+        "created_at": "2023-09-05T18:18:18.696Z",
+        "updated_at": "2023-09-06T14:34:00.425Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59b12b1f-dfc2-43f5-8cba-89113bb7ecab",
+        "salary": 76166,
+        "bonus": 36624,
+        "deductions": 12972,
+        "payment_date": "2023-09-06T03:34:19.093Z",
+        "created_at": "2023-09-05T21:14:44.142Z",
+        "updated_at": "2023-09-06T01:32:13.627Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e8031ea4-b858-449a-97fe-9d7f3cc16bcd",
+        "email": "Wyman.Wilderman@yahoo.com",
+        "firstName": "Payton",
+        "lastName": "DuBuque",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7199060",
+        "tenantId": null
+      },
+      {
+        "reference": "bdb975dc-03b8-4cf7-ab77-cd8b7c5ca038",
+        "email": "Leone15@hotmail.com",
+        "firstName": "Avery",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27962036",
+        "tenantId": null
+      },
+      {
+        "reference": "2ef1563c-03c8-47e6-8c49-7a371c6d7a80",
+        "email": "Amiya.Pagac-Morissette@hotmail.com",
+        "firstName": "Mafalda",
+        "lastName": "Kling-Dickens",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6359994",
+        "tenantId": null
+      },
+      {
+        "reference": "f66acef8-f85e-4878-a171-23bb341858dd",
+        "email": "Gilberto_Bogan74@gmail.com",
+        "firstName": "Jairo",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/376.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ab95bba6-b11e-4f65-b762-8260f9ae1ca5",
+        "email": "Joaquin.Rohan@yahoo.com",
+        "firstName": "Keven",
+        "lastName": "Bernier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63270743",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "a2210cf8-3d72-4a4c-9e0b-9fcbdc5bb031",
+        "start_date": "2023-09-06T07:33:20.676Z",
+        "end_date": "2023-09-05T23:09:09.005Z",
+        "status": "approved",
+        "created_at": "2023-09-06T01:44:19.797Z",
+        "updated_at": "2023-09-05T20:01:23.711Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abf8881d-84ec-4bd7-b5d4-02f5ac6819ac",
+        "start_date": "2023-09-06T06:26:10.952Z",
+        "end_date": "2023-09-06T03:39:11.757Z",
+        "status": "pending",
+        "created_at": "2023-09-05T21:26:21.723Z",
+        "updated_at": "2023-09-05T21:47:28.572Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4012fe88-fa58-4217-9778-6ffa8185f30e",
+        "start_date": "2023-09-06T04:52:17.660Z",
+        "end_date": "2023-09-05T20:16:09.736Z",
+        "status": "rejected",
+        "created_at": "2023-09-05T17:21:09.240Z",
+        "updated_at": "2023-09-05T19:52:43.229Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02aa159f-c318-40d2-b865-b13b702ce9b6",
+        "start_date": "2023-09-06T09:35:44.636Z",
+        "end_date": "2023-09-06T13:11:11.192Z",
+        "status": "scheduled",
+        "created_at": "2023-09-05T23:58:11.263Z",
+        "updated_at": "2023-09-05T20:59:38.650Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27e7e227-bd79-4f4f-84ed-7024458f6b05",
+        "start_date": "2023-09-06T05:05:41.901Z",
+        "end_date": "2023-09-06T04:06:14.585Z",
+        "status": "cancelled",
+        "created_at": "2023-09-06T02:42:44.102Z",
+        "updated_at": "2023-09-05T22:50:09.111Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "08a8d3bf-5a79-4140-83ce-c53cd7412595",
+        "start_time": "2023-09-06T10:43:48.062Z",
+        "end_time": "2023-09-06T16:12:00.919Z",
+        "total_hours": 17377,
+        "created_at": "2023-09-06T09:32:02.545Z",
+        "updated_at": "2023-09-05T17:44:17.017Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f67f797-b8da-4b08-9db9-5695ea2a64fa",
+        "start_time": "2023-09-05T18:45:49.380Z",
+        "end_time": "2023-09-05T22:43:09.817Z",
+        "total_hours": 46826,
+        "created_at": "2023-09-06T06:25:24.304Z",
+        "updated_at": "2023-09-05T20:05:52.312Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef241ba5-392a-4aa2-81b1-10c225b171f8",
+        "start_time": "2023-09-06T01:13:41.675Z",
+        "end_time": "2023-09-06T03:50:23.593Z",
+        "total_hours": 28931,
+        "created_at": "2023-09-06T07:54:13.180Z",
+        "updated_at": "2023-09-06T15:45:19.580Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98c36f32-c771-4252-8c67-033cf3edf9e8",
+        "start_time": "2023-09-06T00:17:57.504Z",
+        "end_time": "2023-09-06T12:57:14.736Z",
+        "total_hours": 24357,
+        "created_at": "2023-09-06T03:49:52.192Z",
+        "updated_at": "2023-09-06T04:59:52.983Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19c8f529-5959-4dd9-b4d6-63afd49e05bf",
+        "start_time": "2023-09-05T19:37:06.641Z",
+        "end_time": "2023-09-05T22:11:00.349Z",
+        "total_hours": 15953,
+        "created_at": "2023-09-05T19:42:16.987Z",
+        "updated_at": "2023-09-06T08:09:36.396Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "dc56d23b-d836-40ff-9354-577c3b758618",
+        "evaluation_date": "2023-09-05T20:20:33.279Z",
+        "score": 9732,
+        "comments": "Excellent performance",
+        "created_at": "2023-09-05T22:02:58.162Z",
+        "updated_at": "2023-09-06T04:07:27.015Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "440ea072-59b1-4394-ad8c-f6a9203e8aea",
+        "evaluation_date": "2023-09-06T08:23:16.103Z",
+        "score": 81818,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T10:16:56.868Z",
+        "updated_at": "2023-09-06T01:19:23.302Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d492bcb-306b-4e48-844a-0e67dbeb6738",
+        "evaluation_date": "2023-09-06T03:26:45.801Z",
+        "score": 51758,
+        "comments": "Great team player",
+        "created_at": "2023-09-06T16:19:00.774Z",
+        "updated_at": "2023-09-06T10:11:21.815Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89c84922-ab48-4cff-b892-dd19ecb0da7e",
+        "evaluation_date": "2023-09-06T01:42:34.211Z",
+        "score": 21884,
+        "comments": "Attention to detail",
+        "created_at": "2023-09-06T15:38:25.598Z",
+        "updated_at": "2023-09-06T03:09:40.660Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "322f8fe1-cda1-480b-a3bc-e91f2be2f7f7",
+        "evaluation_date": "2023-09-05T19:30:45.874Z",
+        "score": 92487,
+        "comments": "Strong leadership skills",
+        "created_at": "2023-09-06T06:53:45.326Z",
+        "updated_at": "2023-09-06T14:18:09.056Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "659c1680-0206-441a-a7e1-755438358634",
+        "salary": 47487,
+        "bonus": 34981,
+        "deductions": 59395,
+        "payment_date": "2023-09-06T07:43:29.537Z",
+        "created_at": "2023-09-06T15:18:23.341Z",
+        "updated_at": "2023-09-06T16:16:20.626Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82378972-6e7d-4ef7-abac-7feb9716eb10",
+        "salary": 79874,
+        "bonus": 37405,
+        "deductions": 45907,
+        "payment_date": "2023-09-06T07:23:14.391Z",
+        "created_at": "2023-09-06T14:24:02.880Z",
+        "updated_at": "2023-09-06T07:02:20.762Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44528ab0-ca7f-400f-bbcf-7a1a9804e613",
+        "salary": 71852,
+        "bonus": 54984,
+        "deductions": 89208,
+        "payment_date": "2023-09-06T02:57:51.382Z",
+        "created_at": "2023-09-06T13:12:13.153Z",
+        "updated_at": "2023-09-05T18:58:26.944Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7ce9c19-be8e-41d8-89e1-8c6975c7070f",
+        "salary": 19298,
+        "bonus": 87586,
+        "deductions": 90600,
+        "payment_date": "2023-09-06T04:13:39.371Z",
+        "created_at": "2023-09-06T03:35:22.037Z",
+        "updated_at": "2023-09-05T16:58:12.180Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe25d57d-36eb-441d-b670-3e610dec94a8",
+        "salary": 35272,
+        "bonus": 15522,
+        "deductions": 99335,
+        "payment_date": "2023-09-06T08:02:50.227Z",
+        "created_at": "2023-09-06T00:17:33.572Z",
+        "updated_at": "2023-09-06T15:37:01.672Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a8346d70-11a9-4505-bfa2-8aa6d1ceffe1",
+        "email": "Jude.Becker26@hotmail.com",
+        "firstName": "Deshaun",
+        "lastName": "Kreiger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/631.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aa21f583-d74c-4bbb-b775-ccf6b5b4a8cd",
+        "email": "Jess.Buckridge51@gmail.com",
+        "firstName": "Harvey",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/684.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "80dfdcba-8d7c-441f-b81d-1859fb9e9353",
+        "email": "Wilhelm82@yahoo.com",
+        "firstName": "Lon",
+        "lastName": "Baumbach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30762537",
+        "tenantId": null
+      },
+      {
+        "reference": "81324c09-992c-4995-b6f7-4e367f92cdf5",
+        "email": "Zane18@yahoo.com",
+        "firstName": "Alvis",
+        "lastName": "Mueller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1240.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "899898bb-479d-4aa1-b56d-a659c0a0dab8",
+        "email": "Mateo.Lynch@yahoo.com",
+        "firstName": "Beulah",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75199685",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "7607f918-c674-4994-a44b-ba8f30f791b8",
+        "start_date": "2023-09-05T21:07:25.435Z",
+        "end_date": "2023-09-06T12:48:19.520Z",
+        "status": "approved",
+        "created_at": "2023-09-05T20:34:50.586Z",
+        "updated_at": "2023-09-06T12:21:07.647Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f3dea9a-2285-423e-8b67-b4a2ab3fc0e0",
+        "start_date": "2023-09-05T22:55:00.631Z",
+        "end_date": "2023-09-06T06:05:01.224Z",
+        "status": "pending",
+        "created_at": "2023-09-05T18:48:23.735Z",
+        "updated_at": "2023-09-06T11:06:41.293Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fda72318-4910-4b8c-8b90-01a7f42dd0bb",
+        "start_date": "2023-09-05T17:29:54.586Z",
+        "end_date": "2023-09-05T22:29:17.930Z",
+        "status": "rejected",
+        "created_at": "2023-09-05T18:41:52.115Z",
+        "updated_at": "2023-09-06T12:56:01.709Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c30756f-300f-4be5-beb8-0b93ce2930ef",
+        "start_date": "2023-09-05T21:20:06.152Z",
+        "end_date": "2023-09-06T08:19:21.819Z",
+        "status": "scheduled",
+        "created_at": "2023-09-05T21:00:07.406Z",
+        "updated_at": "2023-09-05T16:48:22.320Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "452b47e7-d622-411b-b6f4-35dc181ecdb5",
+        "start_date": "2023-09-06T13:11:56.484Z",
+        "end_date": "2023-09-06T01:09:23.766Z",
+        "status": "cancelled",
+        "created_at": "2023-09-06T04:13:22.195Z",
+        "updated_at": "2023-09-06T15:53:32.174Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "9b545f18-4678-4e2a-88b0-2a5c92c191a9",
+        "start_time": "2023-09-06T12:29:38.333Z",
+        "end_time": "2023-09-06T07:06:16.349Z",
+        "total_hours": 48604,
+        "created_at": "2023-09-06T03:55:30.343Z",
+        "updated_at": "2023-09-06T11:58:25.329Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b1c7818-3d8c-4bf3-b58f-6e66f4bbb701",
+        "start_time": "2023-09-06T02:19:47.881Z",
+        "end_time": "2023-09-05T18:23:47.417Z",
+        "total_hours": 14460,
+        "created_at": "2023-09-05T19:10:04.384Z",
+        "updated_at": "2023-09-06T13:40:56.845Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6518acd9-cec4-4094-a2a0-cf23547d06d3",
+        "start_time": "2023-09-06T03:48:57.000Z",
+        "end_time": "2023-09-06T08:37:20.800Z",
+        "total_hours": 65515,
+        "created_at": "2023-09-05T21:07:09.338Z",
+        "updated_at": "2023-09-06T01:53:58.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2be00b56-39b2-4e37-8be3-a73596ce3de2",
+        "start_time": "2023-09-05T18:51:41.280Z",
+        "end_time": "2023-09-06T06:22:03.490Z",
+        "total_hours": 24393,
+        "created_at": "2023-09-06T00:43:17.208Z",
+        "updated_at": "2023-09-05T17:08:42.907Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "baca7638-d927-43c9-b9d9-609e407b4395",
+        "start_time": "2023-09-06T13:03:23.137Z",
+        "end_time": "2023-09-06T09:55:56.832Z",
+        "total_hours": 1894,
+        "created_at": "2023-09-05T19:48:17.746Z",
+        "updated_at": "2023-09-06T13:06:20.025Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "bf6c2778-0f7f-4011-9dea-5cfd3ae01567",
+        "evaluation_date": "2023-09-06T15:07:08.027Z",
+        "score": 11305,
+        "comments": "Great work!",
+        "created_at": "2023-09-06T11:08:32.151Z",
+        "updated_at": "2023-09-05T18:44:08.564Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cbeb9bec-95d2-496f-850b-475037ef15f1",
+        "evaluation_date": "2023-09-06T08:36:46.245Z",
+        "score": 11052,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T15:12:15.902Z",
+        "updated_at": "2023-09-05T18:39:30.069Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec85b0b0-d92a-4109-92c2-b8bbe3eb66e5",
+        "evaluation_date": "2023-09-05T18:34:05.443Z",
+        "score": 7046,
+        "comments": "Impressive performance",
+        "created_at": "2023-09-05T22:36:57.450Z",
+        "updated_at": "2023-09-06T16:22:31.865Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a102b4b-957a-419e-8252-d9ebb00fa232",
+        "evaluation_date": "2023-09-05T20:29:20.379Z",
+        "score": 94410,
+        "comments": "Excellent team player",
+        "created_at": "2023-09-06T09:37:56.978Z",
+        "updated_at": "2023-09-06T01:08:28.337Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "63c6200c-1be8-4ce5-9b90-ef5475317e45",
+        "evaluation_date": "2023-09-06T16:20:11.988Z",
+        "score": 54338,
+        "comments": "Outstanding results",
+        "created_at": "2023-09-06T09:05:51.478Z",
+        "updated_at": "2023-09-06T05:19:59.760Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "686dabc2-7d12-4ec7-803b-936c45959005",
+        "salary": 62009,
+        "bonus": 75692,
+        "deductions": 81570,
+        "payment_date": "2023-09-06T06:39:43.539Z",
+        "created_at": "2023-09-06T05:00:54.044Z",
+        "updated_at": "2023-09-06T12:14:13.454Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9c48917-fdaf-40a2-bf59-520cd14f771e",
+        "salary": 30567,
+        "bonus": 53394,
+        "deductions": 31243,
+        "payment_date": "2023-09-05T19:10:02.352Z",
+        "created_at": "2023-09-06T14:09:08.357Z",
+        "updated_at": "2023-09-06T03:27:53.804Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbcac378-03a2-4cfb-bce9-eed0c9ef5d2c",
+        "salary": 97831,
+        "bonus": 72672,
+        "deductions": 62776,
+        "payment_date": "2023-09-06T02:40:50.718Z",
+        "created_at": "2023-09-05T20:04:17.005Z",
+        "updated_at": "2023-09-05T18:41:58.382Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88ce4af6-f247-45a9-8666-bb1e203bb052",
+        "salary": 57761,
+        "bonus": 70238,
+        "deductions": 67693,
+        "payment_date": "2023-09-05T16:42:31.072Z",
+        "created_at": "2023-09-06T14:02:14.169Z",
+        "updated_at": "2023-09-05T23:51:22.183Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3733e94-6e7e-4983-9aba-50c2c239de08",
+        "salary": 41053,
+        "bonus": 24336,
+        "deductions": 26028,
+        "payment_date": "2023-09-06T07:38:38.403Z",
+        "created_at": "2023-09-06T08:18:13.009Z",
+        "updated_at": "2023-09-05T18:07:24.637Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "288f0f14-af84-4e82-9834-856e96019b16",
+        "email": "Mike_Marvin@gmail.com",
+        "firstName": "Itzel",
+        "lastName": "Steuber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/407.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bd87cebc-c39b-46e6-b1c5-b7d712e682e5",
+        "email": "Stella_Rodriguez@yahoo.com",
+        "firstName": "Orval",
+        "lastName": "Ruecker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/405.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d6f64c0d-938a-40e6-981e-7c7acbefbc90",
+        "email": "Zachery_Rempel26@hotmail.com",
+        "firstName": "Duncan",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11924413",
+        "tenantId": null
+      },
+      {
+        "reference": "3ac0063c-ad1f-4089-abf7-6a4820d7fb87",
+        "email": "Barton_Marks@gmail.com",
+        "firstName": "Osvaldo",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/567.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "28efe034-7932-4447-9e74-c051a7ba5f13",
+        "email": "Lambert_Osinski@gmail.com",
+        "firstName": "Sallie",
+        "lastName": "Moen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/732.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "b28aaa25-b84d-4c33-9784-b1e64a141d8f",
+        "start_date": "2023-09-05T20:54:30.106Z",
+        "end_date": "2023-09-06T11:41:05.553Z",
+        "status": "approved",
+        "created_at": "2023-09-06T09:11:05.138Z",
+        "updated_at": "2023-09-05T21:51:51.470Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd3081b2-4391-4dd4-8198-961698b939f9",
+        "start_date": "2023-09-05T20:38:25.828Z",
+        "end_date": "2023-09-06T11:31:30.607Z",
+        "status": "pending",
+        "created_at": "2023-09-06T05:55:50.696Z",
+        "updated_at": "2023-09-06T12:48:01.393Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "656c803e-3e95-4d4b-b447-381700ccd666",
+        "start_date": "2023-09-06T15:08:25.138Z",
+        "end_date": "2023-09-06T10:18:34.441Z",
+        "status": "rejected",
+        "created_at": "2023-09-06T00:22:10.868Z",
+        "updated_at": "2023-09-05T20:07:22.266Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a42b7554-3f93-431c-85ca-9c90f1304699",
+        "start_date": "2023-09-06T12:12:19.948Z",
+        "end_date": "2023-09-05T20:42:04.981Z",
+        "status": "scheduled",
+        "created_at": "2023-09-06T05:42:27.253Z",
+        "updated_at": "2023-09-06T05:51:29.768Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e78b512-6b4f-4749-a3e2-f06caf879f60",
+        "start_date": "2023-09-05T22:56:31.638Z",
+        "end_date": "2023-09-06T10:44:13.335Z",
+        "status": "cancelled",
+        "created_at": "2023-09-06T06:05:31.906Z",
+        "updated_at": "2023-09-06T05:06:53.237Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "d49d080b-8c9f-48f3-8e68-7094a44cde77",
+        "start_time": "2023-09-06T02:29:01.347Z",
+        "end_time": "2023-09-06T03:13:24.128Z",
+        "total_hours": 32194,
+        "created_at": "2023-09-06T14:19:57.544Z",
+        "updated_at": "2023-09-06T01:53:34.045Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e434a489-1818-46ca-963d-149d50fc98c6",
+        "start_time": "2023-09-06T03:31:44.063Z",
+        "end_time": "2023-09-06T07:28:52.022Z",
+        "total_hours": 64642,
+        "created_at": "2023-09-05T16:43:44.602Z",
+        "updated_at": "2023-09-05T22:03:53.167Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e1639cc-9d5c-4845-bf95-6c4ebe0e3a38",
+        "start_time": "2023-09-06T06:36:07.184Z",
+        "end_time": "2023-09-06T08:04:43.344Z",
+        "total_hours": 14409,
+        "created_at": "2023-09-05T19:01:31.525Z",
+        "updated_at": "2023-09-05T18:30:54.788Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cd30459-b94c-4112-9b99-f4adb22cbbea",
+        "start_time": "2023-09-06T11:21:17.867Z",
+        "end_time": "2023-09-06T14:56:32.603Z",
+        "total_hours": 57238,
+        "created_at": "2023-09-06T03:14:44.691Z",
+        "updated_at": "2023-09-06T11:07:12.519Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d457efc-a9c0-4be4-94f6-89ea398e4554",
+        "start_time": "2023-09-06T07:00:14.659Z",
+        "end_time": "2023-09-06T09:02:21.167Z",
+        "total_hours": 93538,
+        "created_at": "2023-09-06T09:20:54.197Z",
+        "updated_at": "2023-09-06T08:24:19.250Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "d6356011-d2cd-468f-9d2d-8321846964d4",
+        "evaluation_date": "2023-09-06T03:25:59.611Z",
+        "score": 13157,
+        "comments": "Great work!",
+        "created_at": "2023-09-06T15:26:32.188Z",
+        "updated_at": "2023-09-06T07:28:03.099Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64bcebde-4771-4cbe-9b34-034f35a44dae",
+        "evaluation_date": "2023-09-05T21:31:22.269Z",
+        "score": 23359,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T05:14:39.197Z",
+        "updated_at": "2023-09-05T19:39:12.220Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93f526f8-d23f-4dde-b9d9-89a9cae7e409",
+        "evaluation_date": "2023-09-05T23:16:37.590Z",
+        "score": 82564,
+        "comments": "Outstanding performance",
+        "created_at": "2023-09-06T16:14:51.282Z",
+        "updated_at": "2023-09-06T10:38:10.630Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fb477a6e-b10a-48e6-a8c3-486de48fa109",
+        "evaluation_date": "2023-09-06T11:01:14.444Z",
+        "score": 25521,
+        "comments": "Excellent teamwork",
+        "created_at": "2023-09-06T03:40:32.065Z",
+        "updated_at": "2023-09-06T12:02:55.124Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "033c7d35-773e-47e0-b5f6-5c6d41f6e95c",
+        "evaluation_date": "2023-09-05T19:22:50.844Z",
+        "score": 6203,
+        "comments": "Impressive results",
+        "created_at": "2023-09-06T09:25:37.589Z",
+        "updated_at": "2023-09-05T23:38:40.291Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "6d0c3681-a9be-4bf1-8e17-59c35cfffb51",
+        "salary": 89679,
+        "bonus": 87703,
+        "deductions": 63385,
+        "payment_date": "2023-09-06T13:13:18.349Z",
+        "created_at": "2023-09-06T14:46:31.329Z",
+        "updated_at": "2023-09-06T05:21:51.964Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc68511c-d67d-40ee-8c3c-ff495df287d0",
+        "salary": 14840,
+        "bonus": 12083,
+        "deductions": 74757,
+        "payment_date": "2023-09-06T09:58:03.338Z",
+        "created_at": "2023-09-06T11:09:54.304Z",
+        "updated_at": "2023-09-06T00:49:20.990Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00cc8e63-0574-4651-a62b-b17562323e17",
+        "salary": 91177,
+        "bonus": 34424,
+        "deductions": 2030,
+        "payment_date": "2023-09-06T16:17:54.487Z",
+        "created_at": "2023-09-06T07:46:56.322Z",
+        "updated_at": "2023-09-06T00:00:19.865Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "828e74ed-0221-47b4-9a3b-df37afbd5c1a",
+        "salary": 24829,
+        "bonus": 95627,
+        "deductions": 19219,
+        "payment_date": "2023-09-06T01:06:09.777Z",
+        "created_at": "2023-09-05T18:01:30.478Z",
+        "updated_at": "2023-09-05T18:41:24.876Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71cdcd15-8997-4c30-8f82-2cff073c3385",
+        "salary": 9858,
+        "bonus": 59877,
+        "deductions": 8695,
+        "payment_date": "2023-09-06T01:51:07.325Z",
+        "created_at": "2023-09-06T15:09:43.669Z",
+        "updated_at": "2023-09-06T08:07:31.098Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "394f15a7-f51e-47fb-8ba8-ca418af029da",
+        "email": "Destany_Anderson39@yahoo.com",
+        "firstName": "Jaime",
+        "lastName": "Donnelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/396.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "887f4cc8-a903-43ce-be7a-360a37c3cc14",
+        "email": "Jaron.Kozey@yahoo.com",
+        "firstName": "Estelle",
+        "lastName": "Heaney",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5241017",
+        "tenantId": null
+      },
+      {
+        "reference": "ad3696b3-85d3-4d8e-9e29-a940eb322849",
+        "email": "Joana_Jakubowski28@yahoo.com",
+        "firstName": "Shanelle",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/34.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a9f79c0f-4018-468c-a7d7-f1e03db22cce",
+        "email": "Laurianne.Luettgen@yahoo.com",
+        "firstName": "Skye",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/127.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a3aec3ed-ac8a-4a49-835d-2cd841f00c21",
+        "email": "Jalon.West@gmail.com",
+        "firstName": "May",
+        "lastName": "Morar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90082535",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "ed2426ce-5dcf-40c6-81e2-b73b25d43533",
+        "start_date": "2023-09-06T11:30:00.554Z",
+        "end_date": "2023-09-05T18:47:09.477Z",
+        "status": "approved",
+        "created_at": "2023-09-06T14:50:01.139Z",
+        "updated_at": "2023-09-06T16:12:58.119Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "853905a2-9c34-463f-853b-b251863aeabf",
+        "start_date": "2023-09-05T20:01:40.626Z",
+        "end_date": "2023-09-06T05:52:33.983Z",
+        "status": "pending",
+        "created_at": "2023-09-06T01:10:50.214Z",
+        "updated_at": "2023-09-05T16:51:59.522Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d785488-af54-4b7c-95db-42c00f7b4f05",
+        "start_date": "2023-09-06T04:43:26.120Z",
+        "end_date": "2023-09-06T08:20:16.543Z",
+        "status": "rejected",
+        "created_at": "2023-09-05T18:16:07.855Z",
+        "updated_at": "2023-09-06T09:35:37.612Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8071efa9-6152-438b-ab21-71b829ff495f",
+        "start_date": "2023-09-06T05:10:55.154Z",
+        "end_date": "2023-09-06T07:33:56.549Z",
+        "status": "scheduled",
+        "created_at": "2023-09-06T00:58:40.703Z",
+        "updated_at": "2023-09-06T03:34:01.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad60e49e-fdea-480b-aa2c-99df093d5f12",
+        "start_date": "2023-09-06T14:31:13.471Z",
+        "end_date": "2023-09-06T06:39:41.870Z",
+        "status": "cancelled",
+        "created_at": "2023-09-06T01:52:44.198Z",
+        "updated_at": "2023-09-06T02:11:53.244Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "795135b6-15ac-4537-9730-7158b66cbe6b",
+        "start_time": "2023-09-06T04:04:41.237Z",
+        "end_time": "2023-09-06T05:02:14.319Z",
+        "total_hours": 22275,
+        "created_at": "2023-09-06T13:49:49.637Z",
+        "updated_at": "2023-09-06T07:46:28.187Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1d443e52-4b10-4de9-a580-97bb5ebda666",
+        "start_time": "2023-09-06T04:10:59.757Z",
+        "end_time": "2023-09-06T03:54:52.051Z",
+        "total_hours": 33526,
+        "created_at": "2023-09-05T22:23:02.947Z",
+        "updated_at": "2023-09-06T13:53:00.882Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b68e9842-81fc-47e4-a09e-fe0512f84d3c",
+        "start_time": "2023-09-06T14:19:15.972Z",
+        "end_time": "2023-09-06T10:22:06.014Z",
+        "total_hours": 15852,
+        "created_at": "2023-09-06T01:36:49.422Z",
+        "updated_at": "2023-09-05T18:31:37.619Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c3fba22-ba92-445a-9625-5d6421e1653c",
+        "start_time": "2023-09-06T10:02:29.888Z",
+        "end_time": "2023-09-06T12:00:32.005Z",
+        "total_hours": 93262,
+        "created_at": "2023-09-06T08:40:52.792Z",
+        "updated_at": "2023-09-06T11:48:25.331Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "651a5786-ecde-4dac-9241-e6165807bb5f",
+        "start_time": "2023-09-05T16:35:34.293Z",
+        "end_time": "2023-09-05T19:22:14.833Z",
+        "total_hours": 84533,
+        "created_at": "2023-09-05T17:25:23.122Z",
+        "updated_at": "2023-09-06T13:57:39.754Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "d13bc8fe-5bf9-4ed0-91af-180721336816",
+        "evaluation_date": "2023-09-06T01:44:14.419Z",
+        "score": 50635,
+        "comments": "Excellent work!",
+        "created_at": "2023-09-06T12:48:52.804Z",
+        "updated_at": "2023-09-06T05:32:56.039Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6dfdfc4c-1e7f-4fce-b4a7-fbe946eef9ec",
+        "evaluation_date": "2023-09-06T01:27:35.911Z",
+        "score": 11322,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T10:33:21.315Z",
+        "updated_at": "2023-09-05T18:18:22.713Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a312464-e6bc-44f7-af53-8e80081dc241",
+        "evaluation_date": "2023-09-05T20:33:13.507Z",
+        "score": 70207,
+        "comments": "Great team player",
+        "created_at": "2023-09-05T17:41:33.818Z",
+        "updated_at": "2023-09-06T09:04:36.940Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cbf0eb1d-7c79-43b3-bd51-2c268845f21d",
+        "evaluation_date": "2023-09-05T21:37:10.831Z",
+        "score": 66458,
+        "comments": "Outstanding performance",
+        "created_at": "2023-09-06T04:18:05.115Z",
+        "updated_at": "2023-09-05T22:01:24.435Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9b494b9-dc4f-4d0a-a398-641a25356670",
+        "evaluation_date": "2023-09-05T18:07:16.899Z",
+        "score": 17241,
+        "comments": "Attention to detail",
+        "created_at": "2023-09-06T00:34:49.772Z",
+        "updated_at": "2023-09-05T17:19:56.684Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "886a701e-a5bd-4c29-aed3-e150529f33e9",
+        "salary": 65469,
+        "bonus": 20161,
+        "deductions": 60483,
+        "payment_date": "2023-09-06T09:51:17.066Z",
+        "created_at": "2023-09-06T16:25:07.448Z",
+        "updated_at": "2023-09-05T17:18:31.166Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe9e4ba1-9cb2-43eb-82f5-9154a78b6740",
+        "salary": 22095,
+        "bonus": 87710,
+        "deductions": 70394,
+        "payment_date": "2023-09-05T17:37:19.682Z",
+        "created_at": "2023-09-06T05:14:58.327Z",
+        "updated_at": "2023-09-05T19:17:32.877Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa19fb22-9d6b-405b-99f0-6fad1bdaecc0",
+        "salary": 45176,
+        "bonus": 93702,
+        "deductions": 23618,
+        "payment_date": "2023-09-05T22:39:46.953Z",
+        "created_at": "2023-09-06T09:54:21.150Z",
+        "updated_at": "2023-09-06T09:15:50.145Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4a1309a-1402-4eeb-bf6d-3956dcf0ed2b",
+        "salary": 34280,
+        "bonus": 59051,
+        "deductions": 69976,
+        "payment_date": "2023-09-05T22:40:01.471Z",
+        "created_at": "2023-09-06T07:42:29.144Z",
+        "updated_at": "2023-09-05T23:28:53.322Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "18cf47e3-4766-44b5-9a99-d6c624f38d12",
+        "salary": 45064,
+        "bonus": 24162,
+        "deductions": 47837,
+        "payment_date": "2023-09-05T17:43:56.466Z",
+        "created_at": "2023-09-05T22:29:01.798Z",
+        "updated_at": "2023-09-06T11:00:21.664Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "36edf21c-a2b2-4545-9923-a9edbef40387",
+        "email": "Lesley.Glover@gmail.com",
+        "firstName": "Cathy",
+        "lastName": "McKenzie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55235776",
+        "tenantId": null
+      },
+      {
+        "reference": "9d4994c6-553b-4b63-8c4a-8326e9db981c",
+        "email": "Oliver.Block40@yahoo.com",
+        "firstName": "Clay",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1234.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1ebdc5ec-fa91-4edd-ab2b-8faa82fb5da3",
+        "email": "Abagail_Hettinger@yahoo.com",
+        "firstName": "Antwon",
+        "lastName": "Doyle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98366090",
+        "tenantId": null
+      },
+      {
+        "reference": "6298723f-dba9-4c5c-b936-01e925ffd060",
+        "email": "Edmund_Rosenbaum@yahoo.com",
+        "firstName": "Bobbie",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38910206",
+        "tenantId": null
+      },
+      {
+        "reference": "0b9a5da6-5a8c-41b0-8089-6f43bd83a9a9",
+        "email": "Dannie.Volkman@gmail.com",
+        "firstName": "Hardy",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25591578",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "bee60836-3750-4c5d-91f7-5a9b04c6ebcd",
+        "start_date": "2023-09-06T07:10:03.998Z",
+        "end_date": "2023-09-05T20:01:03.695Z",
+        "status": "approved",
+        "created_at": "2023-09-05T19:16:57.885Z",
+        "updated_at": "2023-09-06T13:27:31.786Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "351ab753-8f6f-4646-9464-18295bfa4c6e",
+        "start_date": "2023-09-06T08:23:45.939Z",
+        "end_date": "2023-09-06T15:35:27.546Z",
+        "status": "pending",
+        "created_at": "2023-09-06T04:08:27.465Z",
+        "updated_at": "2023-09-06T12:08:19.588Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "464ee9a4-e30e-4541-b15b-96969581842b",
+        "start_date": "2023-09-05T22:34:34.989Z",
+        "end_date": "2023-09-06T03:09:58.774Z",
+        "status": "rejected",
+        "created_at": "2023-09-06T04:26:56.689Z",
+        "updated_at": "2023-09-06T00:33:48.332Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6240fff0-cc05-4c7d-8b06-975b99256446",
+        "start_date": "2023-09-06T03:14:34.804Z",
+        "end_date": "2023-09-06T11:09:37.467Z",
+        "status": "cancelled",
+        "created_at": "2023-09-05T21:52:59.649Z",
+        "updated_at": "2023-09-06T13:32:55.679Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b6e82493-79a1-4b11-bfee-89ef7138ef48",
+        "start_date": "2023-09-06T05:42:24.660Z",
+        "end_date": "2023-09-06T01:55:33.180Z",
+        "status": "scheduled",
+        "created_at": "2023-09-06T15:52:58.508Z",
+        "updated_at": "2023-09-06T01:46:20.253Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "477f1e16-ce1f-4fa0-a262-2b15a90cf382",
+        "start_time": "2023-09-06T00:07:25.206Z",
+        "end_time": "2023-09-06T13:01:25.871Z",
+        "total_hours": 64548,
+        "created_at": "2023-09-06T11:09:21.909Z",
+        "updated_at": "2023-09-06T03:24:18.171Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7698d0b0-5738-4fe5-83b1-06232097fce1",
+        "start_time": "2023-09-05T17:29:50.099Z",
+        "end_time": "2023-09-06T04:13:23.971Z",
+        "total_hours": 9493,
+        "created_at": "2023-09-06T05:34:24.254Z",
+        "updated_at": "2023-09-06T14:26:04.113Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1cf994d-b6d6-46d4-ac5d-14ffa334d891",
+        "start_time": "2023-09-06T14:07:04.582Z",
+        "end_time": "2023-09-06T00:08:14.830Z",
+        "total_hours": 6334,
+        "created_at": "2023-09-06T04:10:38.020Z",
+        "updated_at": "2023-09-06T13:23:12.013Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "502b02b8-f510-4d1d-a042-e24630e9ce32",
+        "start_time": "2023-09-05T18:58:16.377Z",
+        "end_time": "2023-09-06T14:51:18.891Z",
+        "total_hours": 82616,
+        "created_at": "2023-09-06T09:07:07.166Z",
+        "updated_at": "2023-09-06T09:58:07.806Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "998cfce1-52e0-4883-8960-35a2af813124",
+        "start_time": "2023-09-06T13:07:15.083Z",
+        "end_time": "2023-09-06T11:53:51.924Z",
+        "total_hours": 9084,
+        "created_at": "2023-09-05T21:54:35.080Z",
+        "updated_at": "2023-09-05T23:44:11.532Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "46b935bc-592e-4ca6-80f0-b1a1d456ba95",
+        "evaluation_date": "2023-09-06T02:19:56.033Z",
+        "score": 72027,
+        "comments": "Excellent performance",
+        "created_at": "2023-09-06T07:35:06.076Z",
+        "updated_at": "2023-09-05T17:45:51.851Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db6e1848-2eaa-475a-951b-13670b2c2144",
+        "evaluation_date": "2023-09-06T08:13:14.541Z",
+        "score": 36789,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T04:52:20.029Z",
+        "updated_at": "2023-09-06T07:20:21.778Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91721fe7-39c5-4961-8cc7-242eac92eff4",
+        "evaluation_date": "2023-09-05T21:24:13.858Z",
+        "score": 347,
+        "comments": "Consistently exceeds expectations",
+        "created_at": "2023-09-06T04:23:27.268Z",
+        "updated_at": "2023-09-06T07:44:04.866Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96cffa8d-da09-4d60-872f-b6e56990befe",
+        "evaluation_date": "2023-09-06T01:26:13.862Z",
+        "score": 88806,
+        "comments": "Requires further training",
+        "created_at": "2023-09-06T06:39:17.830Z",
+        "updated_at": "2023-09-06T10:23:11.048Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97d48bea-dc3a-4b43-ab92-f384156f6ca8",
+        "evaluation_date": "2023-09-05T22:49:42.317Z",
+        "score": 40957,
+        "comments": "Shows great potential",
+        "created_at": "2023-09-06T03:42:11.938Z",
+        "updated_at": "2023-09-05T21:33:19.191Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "bc3ddfbd-1b30-4d4c-a006-f00712a6fa00",
+        "salary": 72464,
+        "bonus": 1221,
+        "deductions": 86304,
+        "payment_date": "2023-09-06T10:35:34.526Z",
+        "created_at": "2023-09-06T05:03:41.450Z",
+        "updated_at": "2023-09-05T22:22:44.108Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "290cb2fa-eab0-4235-9e49-a56bdbf67241",
+        "salary": 65553,
+        "bonus": 16267,
+        "deductions": 95129,
+        "payment_date": "2023-09-06T11:03:18.982Z",
+        "created_at": "2023-09-06T05:11:19.941Z",
+        "updated_at": "2023-09-06T07:59:58.610Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f7da060-2c77-4535-a5b4-acd94820ea2c",
+        "salary": 49215,
+        "bonus": 74858,
+        "deductions": 22514,
+        "payment_date": "2023-09-06T09:27:02.884Z",
+        "created_at": "2023-09-06T14:55:54.792Z",
+        "updated_at": "2023-09-05T16:34:31.190Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5d30bea9-cd9f-4969-8671-27a53fea9a62",
+        "salary": 55136,
+        "bonus": 19531,
+        "deductions": 96995,
+        "payment_date": "2023-09-06T16:01:34.470Z",
+        "created_at": "2023-09-06T15:01:31.194Z",
+        "updated_at": "2023-09-05T16:44:33.975Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "937ae87a-a30e-4f4e-9efb-d40cbdd4c14d",
+        "salary": 51828,
+        "bonus": 65115,
+        "deductions": 77661,
+        "payment_date": "2023-09-06T10:02:27.404Z",
+        "created_at": "2023-09-05T22:26:22.731Z",
+        "updated_at": "2023-09-06T10:48:03.355Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e3b4f522-1ab1-41af-ac87-36e7ea5437ff",
+        "email": "Nicholaus36@gmail.com",
+        "firstName": "Junius",
+        "lastName": "Schiller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/212591",
+        "tenantId": null
+      },
+      {
+        "reference": "991b08d2-72df-4c03-a61b-4b14e6c8eede",
+        "email": "Julius40@yahoo.com",
+        "firstName": "Kailey",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9fff47a6-b8a3-4b56-9d1a-512a384954a4",
+        "email": "Maryam_Koch13@hotmail.com",
+        "firstName": "Jett",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1085.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "43b9b74a-3a0c-4977-bd54-823f36fcaf11",
+        "email": "Green.Blick25@hotmail.com",
+        "firstName": "Kelsie",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88668005",
+        "tenantId": null
+      },
+      {
+        "reference": "ec37d35f-7332-40f2-9583-4f4529af34cd",
+        "email": "Wilhelmine15@gmail.com",
+        "firstName": "Gavin",
+        "lastName": "Bergstrom",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/933.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "3a0545a0-c4ce-4788-8086-166b77231120",
+        "start_date": "2023-09-06T06:31:56.960Z",
+        "end_date": "2023-09-06T01:17:04.404Z",
+        "status": "Approved",
+        "created_at": "2023-09-06T07:38:48.856Z",
+        "updated_at": "2023-09-06T09:15:31.294Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6c78bcb-30bf-40fe-9a34-fdc83201b88b",
+        "start_date": "2023-09-05T22:37:25.531Z",
+        "end_date": "2023-09-05T19:41:23.373Z",
+        "status": "Pending",
+        "created_at": "2023-09-06T04:45:56.502Z",
+        "updated_at": "2023-09-05T22:34:07.980Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "32267bbb-e648-4f75-9d39-951d8357a9f9",
+        "start_date": "2023-09-05T17:32:16.732Z",
+        "end_date": "2023-09-06T12:10:33.191Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-06T06:00:35.349Z",
+        "updated_at": "2023-09-06T03:19:04.576Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a328353-2709-4c36-bd58-1b2f9745ef2c",
+        "start_date": "2023-09-06T03:21:48.610Z",
+        "end_date": "2023-09-06T04:11:08.547Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-06T13:38:51.958Z",
+        "updated_at": "2023-09-06T08:56:07.946Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38b2b6ba-b795-420f-9b01-2eec6c4742eb",
+        "start_date": "2023-09-06T05:29:23.588Z",
+        "end_date": "2023-09-06T05:07:04.805Z",
+        "status": "Rejected",
+        "created_at": "2023-09-06T13:02:11.429Z",
+        "updated_at": "2023-09-06T00:42:57.172Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "d4866be1-1020-40de-93ff-95900b24ba30",
+        "start_time": "2023-09-06T14:37:10.576Z",
+        "end_time": "2023-09-05T18:16:03.318Z",
+        "total_hours": 15732,
+        "created_at": "2023-09-06T04:13:33.118Z",
+        "updated_at": "2023-09-06T10:54:37.187Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53c9f475-f845-485c-858b-9f508242ab93",
+        "start_time": "2023-09-06T14:34:22.332Z",
+        "end_time": "2023-09-06T13:35:32.684Z",
+        "total_hours": 44469,
+        "created_at": "2023-09-06T06:14:40.245Z",
+        "updated_at": "2023-09-06T02:35:10.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f8b99d2-78f0-4893-af31-8db66123c91b",
+        "start_time": "2023-09-06T10:47:19.875Z",
+        "end_time": "2023-09-06T14:51:22.151Z",
+        "total_hours": 98568,
+        "created_at": "2023-09-05T23:41:58.500Z",
+        "updated_at": "2023-09-05T19:44:23.736Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de4a44a4-c1ac-4019-9198-929326fd738e",
+        "start_time": "2023-09-06T13:31:56.480Z",
+        "end_time": "2023-09-06T06:36:08.969Z",
+        "total_hours": 49691,
+        "created_at": "2023-09-06T05:26:26.610Z",
+        "updated_at": "2023-09-06T10:30:28.442Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b53dcc7a-df87-4c2b-bb1c-2d956593b12e",
+        "start_time": "2023-09-06T13:10:29.427Z",
+        "end_time": "2023-09-06T05:37:24.278Z",
+        "total_hours": 29682,
+        "created_at": "2023-09-06T08:41:18.191Z",
+        "updated_at": "2023-09-05T16:44:26.361Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "096d686a-a6bd-4b0b-9a2d-6bbac8f672d9",
+        "evaluation_date": "2023-09-05T23:38:30.318Z",
+        "score": 53120,
+        "comments": "Excellent work!",
+        "created_at": "2023-09-05T22:43:24.982Z",
+        "updated_at": "2023-09-06T09:32:54.769Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8c014ce-9510-4cee-9c5f-6106877ac49f",
+        "evaluation_date": "2023-09-06T00:30:39.364Z",
+        "score": 40449,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-06T04:56:01.771Z",
+        "updated_at": "2023-09-05T16:56:24.832Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fefe84b8-d5ad-4a1d-8cd9-77c380a3b6ee",
+        "evaluation_date": "2023-09-05T17:52:04.992Z",
+        "score": 21456,
+        "comments": "Great team player",
+        "created_at": "2023-09-06T09:18:39.514Z",
+        "updated_at": "2023-09-05T19:40:46.711Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd130272-2d80-4d05-ba32-e6203d15d98e",
+        "evaluation_date": "2023-09-06T04:11:50.406Z",
+        "score": 28266,
+        "comments": "Outstanding performance",
+        "created_at": "2023-09-06T02:10:55.431Z",
+        "updated_at": "2023-09-05T23:26:07.570Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92dc3dee-b47e-4593-9bf9-6030d563136a",
+        "evaluation_date": "2023-09-06T05:38:30.472Z",
+        "score": 14623,
+        "comments": "Attention to detail",
+        "created_at": "2023-09-05T23:48:07.108Z",
+        "updated_at": "2023-09-05T19:01:18.597Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "111ccaa8-f641-4681-8678-ea50a1dfad80",
+        "salary": 72612,
+        "bonus": 23811,
+        "deductions": 84416,
+        "payment_date": "2023-09-05T18:53:28.567Z",
+        "created_at": "2023-09-06T02:28:14.241Z",
+        "updated_at": "2023-09-05T21:51:03.061Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a915e356-af3b-4165-ae06-12ba555dee63",
+        "salary": 67467,
+        "bonus": 57178,
+        "deductions": 22672,
+        "payment_date": "2023-09-05T23:38:45.814Z",
+        "created_at": "2023-09-05T21:36:42.161Z",
+        "updated_at": "2023-09-06T09:00:37.920Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ccf5291-08a1-467a-b6f0-c064bf3a5168",
+        "salary": 73914,
+        "bonus": 15864,
+        "deductions": 73354,
+        "payment_date": "2023-09-06T14:26:00.076Z",
+        "created_at": "2023-09-05T21:22:10.301Z",
+        "updated_at": "2023-09-05T22:47:35.118Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f757b50-6843-450a-bf6a-18889ade332a",
+        "salary": 83685,
+        "bonus": 65746,
+        "deductions": 42963,
+        "payment_date": "2023-09-06T03:21:18.622Z",
+        "created_at": "2023-09-06T00:06:21.744Z",
+        "updated_at": "2023-09-06T14:06:54.995Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2916822-fd01-4880-9b8c-52de52fdac6b",
+        "salary": 30419,
+        "bonus": 96673,
+        "deductions": 21475,
+        "payment_date": "2023-09-05T21:39:08.872Z",
+        "created_at": "2023-09-05T17:07:52.533Z",
+        "updated_at": "2023-09-05T23:13:20.789Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7fcc7264-c8e9-4cfe-afeb-12b892bbba73",
+        "email": "Larry.Cremin39@gmail.com",
+        "firstName": "Elena",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/237.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cf07e2e6-bbdd-4d1f-a786-1bdd4b7c145f",
+        "email": "Beatrice84@yahoo.com",
+        "firstName": "Daniella",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/481.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e9b3a3bd-217c-49e2-a743-8770a6fcd89a",
+        "email": "Jacinto.Ernser94@gmail.com",
+        "firstName": "Gail",
+        "lastName": "Monahan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44267263",
+        "tenantId": null
+      },
+      {
+        "reference": "9af71f42-9fc7-4e19-903c-600c640bfd3d",
+        "email": "Price.McGlynn@hotmail.com",
+        "firstName": "Clay",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25079371",
+        "tenantId": null
+      },
+      {
+        "reference": "6ac1c367-045a-48e8-bee5-2d0424e9fe94",
+        "email": "Krystina.Lockman94@yahoo.com",
+        "firstName": "Isom",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21026401",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "7e0467c0-5ade-4e70-9fdc-89a1ef7c3671",
+        "start_date": "2023-09-06T05:55:32.873Z",
+        "end_date": "2023-09-06T08:15:19.266Z",
+        "status": "approved",
+        "created_at": "2023-09-05T22:23:00.092Z",
+        "updated_at": "2023-09-05T18:26:15.651Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5c64480-24b5-43ec-b152-0fc7f7dc388b",
+        "start_date": "2023-09-06T14:07:16.893Z",
+        "end_date": "2023-09-06T16:32:18.796Z",
+        "status": "pending",
+        "created_at": "2023-09-06T00:56:17.035Z",
+        "updated_at": "2023-09-06T14:17:18.441Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "677cdeec-22ec-4862-bd02-da75304d0e34",
+        "start_date": "2023-09-06T10:25:33.575Z",
+        "end_date": "2023-09-06T01:50:06.326Z",
+        "status": "rejected",
+        "created_at": "2023-09-06T10:19:55.414Z",
+        "updated_at": "2023-09-05T21:28:11.106Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24f2c033-1760-4fed-b0ee-dafff4828b14",
+        "start_date": "2023-09-06T13:29:03.848Z",
+        "end_date": "2023-09-06T03:39:05.448Z",
+        "status": "cancelled",
+        "created_at": "2023-09-06T08:18:47.452Z",
+        "updated_at": "2023-09-06T08:36:55.326Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3ad42f6-6368-449b-9683-28a334db199e",
+        "start_date": "2023-09-06T01:02:34.693Z",
+        "end_date": "2023-09-06T06:04:06.553Z",
+        "status": "scheduled",
+        "created_at": "2023-09-06T16:20:00.122Z",
+        "updated_at": "2023-09-06T02:12:52.804Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "6031cafa-fc04-4a35-82cd-232cb23549b4",
+        "start_time": "2023-09-06T01:14:24.032Z",
+        "end_time": "2023-09-06T02:56:16.437Z",
+        "total_hours": 21995,
+        "created_at": "2023-09-05T18:34:17.056Z",
+        "updated_at": "2023-09-06T13:54:54.801Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ccb45ee7-6df1-476d-8cd0-ed7512253c27",
+        "start_time": "2023-09-06T06:36:39.615Z",
+        "end_time": "2023-09-06T14:50:40.612Z",
+        "total_hours": 53973,
+        "created_at": "2023-09-05T20:59:32.814Z",
+        "updated_at": "2023-09-06T11:24:12.332Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "437fb8b2-5414-4a9a-b3a6-46cc808011bd",
+        "start_time": "2023-09-06T02:14:32.148Z",
+        "end_time": "2023-09-06T10:53:10.152Z",
+        "total_hours": 52825,
+        "created_at": "2023-09-05T17:15:15.960Z",
+        "updated_at": "2023-09-05T22:39:52.806Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82a04623-8357-44c5-be06-ad58199d4a0e",
+        "start_time": "2023-09-05T22:17:17.193Z",
+        "end_time": "2023-09-06T13:31:20.132Z",
+        "total_hours": 67926,
+        "created_at": "2023-09-06T12:31:18.337Z",
+        "updated_at": "2023-09-06T03:14:59.210Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b74dd0d7-27f6-4d58-8649-1d70802c1afc",
+        "start_time": "2023-09-06T03:24:29.294Z",
+        "end_time": "2023-09-06T07:22:29.812Z",
+        "total_hours": 39038,
+        "created_at": "2023-09-06T10:54:42.713Z",
+        "updated_at": "2023-09-06T15:00:02.774Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "0bf2f309-2617-4e00-b1f0-8c7d75e9ca4b",
+        "evaluation_date": "2023-09-06T08:44:42.600Z",
+        "score": 15352,
+        "comments": "Great job!",
+        "created_at": "2023-09-05T19:14:56.642Z",
+        "updated_at": "2023-09-05T19:16:07.650Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77aabd64-e74d-4d5e-8adc-caeb8dc2aa02",
+        "evaluation_date": "2023-09-06T08:30:29.724Z",
+        "score": 64802,
+        "comments": "Needs improvement",
+        "created_at": "2023-09-05T21:42:41.530Z",
+        "updated_at": "2023-09-05T20:02:16.110Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60484da0-11b9-451b-8777-d49fc3c618f4",
+        "evaluation_date": "2023-09-06T11:41:25.231Z",
+        "score": 97474,
+        "comments": "Outstanding performance",
+        "created_at": "2023-09-06T06:47:03.943Z",
+        "updated_at": "2023-09-05T23:34:44.860Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d066a79-4a28-4d45-a665-1d61e368dead",
+        "evaluation_date": "2023-09-05T20:00:01.674Z",
+        "score": 6957,
+        "comments": "Average performance",
+        "created_at": "2023-09-05T23:10:25.556Z",
+        "updated_at": "2023-09-06T15:42:32.375Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4dfb6219-2008-4558-9742-2173a5f21529",
+        "evaluation_date": "2023-09-05T22:19:23.105Z",
+        "score": 66471,
+        "comments": "Exceptional work",
+        "created_at": "2023-09-06T09:43:22.571Z",
+        "updated_at": "2023-09-05T21:27:17.910Z",
+        "evaluator_id": "user_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "94dd2bb9-d0bd-4c52-8c6c-7bf597e9ae50",
+        "salary": 24991,
+        "bonus": 93908,
+        "deductions": 36869,
+        "payment_date": "2023-09-06T06:27:20.038Z",
+        "created_at": "2023-09-05T17:05:12.671Z",
+        "updated_at": "2023-09-05T22:57:28.259Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11b84d4a-0513-476a-93ef-8065bee024d0",
+        "salary": 43396,
+        "bonus": 12307,
+        "deductions": 12470,
+        "payment_date": "2023-09-05T20:34:58.946Z",
+        "created_at": "2023-09-05T18:23:35.237Z",
+        "updated_at": "2023-09-06T04:52:05.087Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "837c52b1-661d-42c1-a99a-37987825cf1b",
+        "salary": 44262,
+        "bonus": 49291,
+        "deductions": 66806,
+        "payment_date": "2023-09-06T09:43:14.065Z",
+        "created_at": "2023-09-05T18:44:09.460Z",
+        "updated_at": "2023-09-06T01:13:57.419Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2f6ab03-8380-4569-8ee3-e358f665834f",
+        "salary": 52859,
+        "bonus": 93074,
+        "deductions": 91760,
+        "payment_date": "2023-09-06T13:42:09.479Z",
+        "created_at": "2023-09-06T04:39:45.537Z",
+        "updated_at": "2023-09-05T16:53:44.325Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19041c7c-3bcf-46cd-b8a6-2083a81f7514",
+        "salary": 26737,
+        "bonus": 57817,
+        "deductions": 80903,
+        "payment_date": "2023-09-06T16:09:03.889Z",
+        "created_at": "2023-09-05T23:12:43.867Z",
+        "updated_at": "2023-09-05T17:00:58.698Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3337e846-0370-40ee-9c09-ae39e2b96abd",
+        "email": "Benny95@yahoo.com",
+        "firstName": "Nannie",
+        "lastName": "Gerlach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70884053",
+        "tenantId": null
+      },
+      {
+        "reference": "643d1dba-68ce-482f-851d-5f778a22debe",
+        "email": "Uriah.Doyle13@hotmail.com",
+        "firstName": "Angela",
+        "lastName": "Steuber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25870540",
+        "tenantId": null
+      },
+      {
+        "reference": "4e893704-8717-491d-b31e-00daaa9989dc",
+        "email": "Martina_Collier69@yahoo.com",
+        "firstName": "Ova",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/785.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "16311278-5124-4d18-ac7e-79f2652dfc23",
+        "email": "Armando13@hotmail.com",
+        "firstName": "Jasper",
+        "lastName": "Boyle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1104.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b32428c4-2eb8-44f7-9225-f16efa72432f",
+        "email": "Alberta4@hotmail.com",
+        "firstName": "Jerald",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48695200",
+        "tenantId": null
+      }
+    ]
+  }
+]
